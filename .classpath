@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="lib/aliyun-java-sdk-ocr-1.0.7.jar" />
+	<classpathentry kind="lib"
+		path="lib/fastjson-1.2.68.jar" />
+	<classpathentry kind="lib" path="lib/gson-2.8.6.jar" />
+	<classpathentry kind="lib"
+		path="lib/aliyun-java-sdk-core-4.5.1.jar" />
+	<classpathentry kind="lib"
+		path="lib/httpclient-4.5.12.jar" />
+	<classpathentry kind="lib"
+		path="lib/httpcore-4.4.13.jar" />
+	<classpathentry kind="lib"
+		path="lib/commons-logging-1.2.jar" />
+	<classpathentry kind="lib"
+		path="lib/opentracing-util-0.33.0.jar" />
+	<classpathentry kind="lib"
+		path="lib/opentracing-mock-0.33.0.jar" />
+	<classpathentry kind="lib" path="lib/commons-io-2.6.jar" />
+	<classpathentry kind="lib"
+		path="lib/opentracing-api-0.33.0.jar" />
+	<classpathentry kind="lib"
+		path="lib/opentracing-noop-0.33.0.jar" />
+	<classpathentry kind="lib"
+		path="lib/activation-1.1.1.jar" />
+	<classpathentry kind="lib"
+		path="lib/jaxb-api-2.4.0-b180830.0359.jar" />
+	<classpathentry kind="lib"
+		path="lib/jaxb-core-3.0.0-M3.jar" />
+	<classpathentry kind="lib"
+		path="lib/jaxb-impl-3.0.0-M3.jar" />
+	<classpathentry kind="lib"
+		path="lib/aliyun-java-sdk-facebody-1.0.9.jar" />
+	<classpathentry kind="output" path="bin" />
+</classpath>
