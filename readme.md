@@ -30,5 +30,5 @@ PS：没找到驾照的OSS地址，就暂时先放放吧。
 
 项目其实并不完整，时间比较紧促，明后天就期中考了，就暂时做这样吧，待更新。。。
 
-
+博客地址：[戳我进入](https://rootwhois.cn/post/a-li-yun-gao-xiao-ji-hua-shi-jue-ai-wu-tian-xun-lian-ying-day-4/)
 
